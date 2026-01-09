@@ -13,25 +13,25 @@
 		"title": "설맞이 효도 선물세트 특가",
 		"message": "부모님 건강, 지금 챙기세요! 전품목 20% 할인 중",
 		"button_text": "혜택 받으러 가기", 
-		"image_url": "https://your-github-id.github.io/images/banner_newyear.jpg",
+		"image_url": "https://sell.smartstore.naver.com/shop1.phinf.naver.net/20251119_128/1763521594790hl8nc_JPEG/1000004573_www.ggsan.jpg?type=f344",
 		"link_url": "https://smartstore.naver.com/horangshopping/products/11569641953",
 		"bg_color": "#FF5722"
 	  },
 	  {
 		"show": true,
-		"id": "11569641954",
+		"id": "12705700390",
 		"type": "bottom",
 		"title": "설맞이 효도 선물세트 특가",
 		"message": "전품목 20% 할인 중",
-		"image_url": "https://your-github-id.github.io/images/banner_newyear.jpg",
-		"link_url": "https://smartstore.naver.com/horangshopping/products/11569641954",
+		"image_url": "https://sell.smartstore.naver.com/shop1.phinf.naver.net/20251119_128/1763521594790hl8nc_JPEG/1000004573_www.ggsan.jpg?type=f344",
+		"link_url": "https://smartstore.naver.com/horangshopping/products/12705700390",
 		"bg_color": "#FF5722"
 	  }	  
   ],
 
   "products": [
     {
-      "id": "10699541272",
+      "id": "11175919570",
       "keywords": ["오메가", "오메가3", "omega", "혈행", "눈건강"],
       "display_info": {
         "title": "초임계 알티지 오메가3",
@@ -39,10 +39,10 @@
         "description": "비린내 없는 식물성 캡슐, 지금 드시는 것과 비교해보세요.",
         "discount_rate": "15%",
         "price": "28,900원",
-        "thumbnail_url": "https://your-github-id.github.io/images/thumb_omega.jpg"
+        "thumbnail_url": "https://sell.smartstore.naver.com/shop1.phinf.naver.net/20251119_128/1763521594790hl8nc_JPEG/1000004573_www.ggsan.jpg?type=f344"
       },
 	  "button_text": "구매하러 가기",
-      "link_url": "https://smartstore.naver.com/horangshopping/products/10699541272"
+      "link_url": "https://smartstore.naver.com/horangshopping/products/11175919570"
     }
   ]
 }
