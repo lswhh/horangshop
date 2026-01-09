@@ -5,15 +5,29 @@
     "release": false
   },
   
-  "global_banner": {
-    "show": true,
-    "id": "11569641953",
-    "title": "설맞이 효도 선물세트 특가",
-    "message": "부모님 건강, 지금 챙기세요! 전품목 20% 할인 중",
-    "image_url": "https://your-github-id.github.io/images/banner_newyear.jpg",
-    "link_url": "https://smartstore.naver.com/horangshopping/products/11569641953",
-    "bg_color": "#FF5722"
-  },
+  "global_banner": [
+	  {
+		"show": true,
+		"id": "11569641953",
+		"type": "dialog",
+		"title": "설맞이 효도 선물세트 특가",
+		"message": "부모님 건강, 지금 챙기세요! 전품목 20% 할인 중",
+		"button_text": "혜택 받으러 가기", 
+		"image_url": "https://your-github-id.github.io/images/banner_newyear.jpg",
+		"link_url": "https://smartstore.naver.com/horangshopping/products/11569641953",
+		"bg_color": "#FF5722"
+	  },
+	  {
+		"show": true,
+		"id": "11569641954",
+		"type": "bottom",
+		"title": "설맞이 효도 선물세트 특가",
+		"message": "전품목 20% 할인 중",
+		"image_url": "https://your-github-id.github.io/images/banner_newyear.jpg",
+		"link_url": "https://smartstore.naver.com/horangshopping/products/11569641954",
+		"bg_color": "#FF5722"
+	  }	  
+  ],
 
   "products": [
     {
@@ -27,6 +41,7 @@
         "price": "28,900원",
         "thumbnail_url": "https://your-github-id.github.io/images/thumb_omega.jpg"
       },
+	  "button_text": "구매하러 가기",
       "link_url": "https://smartstore.naver.com/horangshopping/products/10699541272"
     }
   ]
