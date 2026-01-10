@@ -7,7 +7,7 @@
   
   "global_banner": [
 	  {
-		"show": true,
+		"show": false,
 		"id": "11569641953",
 		"type": "dialog",
 		"title": "설맞이 효도 선물세트 특가",
